@@ -1,0 +1,25 @@
+.docx-converter-wrap {
+    margin: 20px;
+}
+
+.export-section,
+.import-section {
+    margin-top: 20px;
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.wp-list-table .column-actions {
+    width: 150px;
+}
+
+.import-section .form-table {
+    background: #fff;
+    margin-top: 20px;
+}
+
+.import-section .form-table th {
+    width: 200px;
+}
